@@ -9,3 +9,4 @@ laravel4demo
 围观地址：http://laravel4.chedushi.com/
 
 等demo完善些了再放源码出来供大家吐槽！
+<a href="https://me.alipay.com/tenking" target="_blank"><img alt="赞助支付" src="http://blog.chedushi.com/wp-content/uploads/2013/06/pay.png"></a>
